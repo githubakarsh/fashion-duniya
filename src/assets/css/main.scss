@@ -1,0 +1,11 @@
+@import '../css/components/atoms/title';
+
+@import '../css/components/molecules/app-header';
+@import '../css/components/molecules/app-side-bar';
+@import '../css/components/molecules/footer';
+
+@import '../css/pages/app.scss';
+
+body {
+    margin: 0px;
+}
